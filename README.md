@@ -6,7 +6,7 @@ This project aims to retrive hand tracking data from Meta Quest2 headset.
 2.install oculus integration 
 
 3.Configure data export file and real time bone display with the following picture. Change the file storage path.
-![Image text](​https://github.com/JessicaWangCode/HandTracking/raw/main/MicrosoftTeams-image%20(1).png)
+![Image text](https://user-images.githubusercontent.com/78681139/258790886-91df5a8c-60b9-4369-994b-2f91bec450a9.png))
 ![Image text](https://github.com/JessicaWangCode/HandTracking/raw/main/MicrosoftTeams-image%20(2).png​​​)
 
 4.Set passthrough Mixed Reality environment with the following video
