@@ -20,7 +20,7 @@ data = pds.read_csv('C:/left/grab1.csv')
 dataset = data.values.tolist()
 
 num_joints = p.getNumJoints(handuid)
-# 遍历每个关节，打印关节的名称
+# Go through each joint and print the name of the joint
 for i in range(num_joints):
     joint_info = p.getJointInfo(handuid, i)
     joint_name = joint_info[1]
