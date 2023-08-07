@@ -23,9 +23,12 @@ Run simulation.py to simulate hand point cloud on a single timestamp.
 
 Run animation.py to show animation on chosen timestamps.
 
+![Image text](https://user-images.githubusercontent.com/78681139/258797009-6589935b-3bb4-4a52-a3ed-1fbe2800d9bc.png))
 ## Simulate robot hand with pybullet
 Open robo_simu file
 
 Run CleanTheDataSet.py to calculate joint angles for pybullet.
 
 Run main.py to simulate with robotic hand model.
+
+![Image text](https://user-images.githubusercontent.com/78681139/258797028-77e228e8-4721-4068-a170-8101a9cc0e22.png)
