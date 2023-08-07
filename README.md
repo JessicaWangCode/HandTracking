@@ -1,13 +1,13 @@
 # HandTracking
-This project aims to gain hand tracking data from Meta Quest2 headset.
+This project aims to retrive hand tracking data from Meta Quest2 headset.
 ## Install and run
 1.create 3D environment in VR 
 
 2.install oculus integration 
 
-3.Configure setting with the following picture and change file storage pass
+3.Configure data export file and real time bone display with the following picture. Change the file storage path.
 
-4.Passthrough Mixed Reality setting
+4.Set passthrough Mixed Reality environment with the following video
 
 https://www.youtube.com/watch?v=6hocgJQ10Z8
 
