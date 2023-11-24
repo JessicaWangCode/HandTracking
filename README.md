@@ -14,7 +14,7 @@ This project aims to retrive hand tracking data from Meta Quest2 headset.
 https://www.youtube.com/watch?v=6hocgJQ10Z8
 
 5. Use Windows, Mac, Linus build. Make sure using the following settings. Now press play button to start collecting data.
-![Image text](https://user-images.githubusercontent.com/78681139/258791096-8a1c00eb-508e-42cc-8794-871f1ac857b9.png)​​​)
+![Image text]([https://user-images.githubusercontent.com/78681139/258791096-8a1c00eb-508e-42cc-8794-871f1ac857b9.png](https://github.com/JessicaWangCode/HandTracking/assets/78681139/2b65d374-2562-4f0b-bd25-75dcb3bb182e))​​​)
 ![Image text](https://user-images.githubusercontent.com/78681139/258790886-91df5a8c-60b9-4369-994b-2f91bec450a9.png))
 ## Simulate with 3D hand point cloud
 open pointcloud_simu file
